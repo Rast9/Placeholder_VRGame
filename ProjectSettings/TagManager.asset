@@ -8,11 +8,11 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - OBJECTS
   - Water
   - UI
-  - 
-  - 
+  - PLAYER
+  - GrabbableObjects
   - 
   - 
   - 
